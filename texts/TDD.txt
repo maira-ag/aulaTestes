@@ -1,0 +1,9 @@
+TDD - Test Driven Development
+
+- Escrevemos os testes antes de fazer o código
+- Rodamos os testes e, obviamente, vai falhar, pois não escrevemos a função ainda
+- Agora sim, escrevemos o código que precisamos
+- Rodamos os testes automatizados e vems se funcionou
+- Corrigimos caso não eseja funcionando
+- Repetimos novamente.
+
